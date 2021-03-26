@@ -62,7 +62,7 @@ header li a {
 {
     #imagePrincipale    
     {
-        background: url(media/banniere.PNG) no-repeat fixed 50% 50%;
+        background: url(media/banniere.PNG) no-repeat fixed 20% 20%;
         background-size: cover;
     }
 }
